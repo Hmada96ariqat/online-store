@@ -1,1 +1,5 @@
-dsdc
+/* Example CSS */
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+}
